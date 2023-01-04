@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Truke Server**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes, Docker, CI/CD**
 
-- 💬 Ask me about **Python, Docker, Java, Flask, CI/CD**
+- 💬 Ask me about **Python, Java, Flask**
 
 - 📫 How to reach me **uttkarsh.dhania.udiv0313@gmail.com**
 
